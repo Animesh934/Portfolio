@@ -14,7 +14,7 @@ Welcome to my portfolio. I am a B.Tech student at KIIT University focused on hig
 ---
 
 ## 📄 Resume
-* **[View my full Resume here](https://github.com/animesh9364/Portfolio/blob/main/Animesh_Biswas_Resume.pdf)**
+* **[View my full Resume here](./Animesh_Biswas_Resume.pdf)**
 
 ---
 
