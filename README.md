@@ -19,6 +19,6 @@ Welcome to my portfolio. I am a B.Tech student at KIIT University focused on hig
 ---
 
 ## 🔧 Technical Toolkit
-* [cite_start]**Languages:** Verilog HDL, C, Python, MATLAB[cite: 32].
-* [cite_start]**Tools:** Xilinx Vivado, KiCad, Tina-Ti, Docker, VS Code[cite: 33, 117].
-* [cite_start]**Hardware:** FPGA (Artix-7), Raspberry Pi Pico W, ESP32, Arduino[cite: 34, 40, 237].
+* **Languages:** Verilog HDL, C, Python, MATLAB.
+* **Tools:** Xilinx Vivado, KiCad, Tina-Ti, Docker, VS Code.
+* **Hardware:** FPGA (Artix-7), Raspberry Pi Pico W, ESP32, Arduino.
