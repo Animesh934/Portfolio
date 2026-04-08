@@ -13,17 +13,6 @@ Welcome to my portfolio. I am a B.Tech student at KIIT University focused on hig
 
 ---
 
-## 🛠️ Key Projects
-### **[RFID Automated Attendance System](LINK_IF_ALREADY_ON_GITHUB)**
-* **Stack:** Raspberry Pi Pico W, MicroPython, Flask, Docker.
-* **Detail:** End-to-end IoT system with real-time dashboard and Excel report generation.
-
-### **Autonomous Sand Rover**
-* **Focus:** Robotics and Embedded Firmware (Arduino/ESP32).
-* **Achievement:** Engineered for stability in sand terrain for IIT Kharagpur Kshitij.
-
----
-
 ## 📄 Resume
 * **[View my full Resume here](LINK_TO_RESUME_FILE_IN_THIS_REPO)**
 
