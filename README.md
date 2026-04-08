@@ -1,2 +1,35 @@
-# Portfolio
-My current professional resume. B.Tech Electronics and Telecommunication Engineer specializing in FPGA Design, VLSI, and Embedded Systems
+# Animesh Biswas | Electronics & Telecommunication Engineer
+**Specializing in FPGA Design, VLSI, and Embedded Systems**
+
+Welcome to my portfolio. I am a B.Tech student at KIIT University focused on high-performance digital design and IoT integration.
+
+---
+
+## 🚀 Featured Research
+### **[DSP ALU - 6-Stage Pipelined Design](LINK_TO_YOUR_NEW_REPO)**
+* **Focus:** High-throughput VLSI architecture optimized for Xilinx Artix-7.
+* **Achievement:** Achieved 100 MHz operational frequency and 25mW dynamic power.
+* **Publication:** Accepted for IEEE IC2PCT 2026.
+
+---
+
+## 🛠️ Key Projects
+### **[RFID Automated Attendance System](LINK_IF_ALREADY_ON_GITHUB)**
+* **Stack:** Raspberry Pi Pico W, MicroPython, Flask, Docker.
+* **Detail:** End-to-end IoT system with real-time dashboard and Excel report generation.
+
+### **Autonomous Sand Rover**
+* **Focus:** Robotics and Embedded Firmware (Arduino/ESP32).
+* **Achievement:** Engineered for stability in sand terrain for IIT Kharagpur Kshitij.
+
+---
+
+## 📄 Resume
+* **[View my full Resume here](LINK_TO_RESUME_FILE_IN_THIS_REPO)**
+
+---
+
+## 🔧 Technical Toolkit
+* [cite_start]**Languages:** Verilog HDL, C, Python, MATLAB[cite: 32].
+* [cite_start]**Tools:** Xilinx Vivado, KiCad, Tina-Ti, Docker, VS Code[cite: 33, 117].
+* [cite_start]**Hardware:** FPGA (Artix-7), Raspberry Pi Pico W, ESP32, Arduino[cite: 34, 40, 237].
